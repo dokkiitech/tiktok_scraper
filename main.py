@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 import os
 
-WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbyE9Xlq4l5qNnIljXWIqeMbzxuLPaLp9-Ngk5ohMxjWgqMOuHTjhH2kQDM3lawM5CPF/exec'
+WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbytrfkniHTWKsXkNOD7hQNyYEcmOBMD7p89OmgXOsLkVD-LelEkrIEyoJJKv34HQxTw/exec'
 SHARD_FILE = 'shard.txt'
 KEYWORD_FILE = 'keyword.txt'
 
